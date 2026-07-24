@@ -1,5 +1,11 @@
 # Building AI Applications with Azure AI Foundry — Hands-on Workshop
 
+![Azure AI Foundry](https://img.shields.io/badge/Azure-AI%20Foundry-0078D4?logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
+![Labs](https://img.shields.io/badge/Hands--on%20Labs-5-success)
+![Slides](https://img.shields.io/badge/Slides-Marp-000000?logo=markdown&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A complete, self-contained, one-day workshop that takes you from zero to a
 deployed AI agent on **Microsoft Azure AI Foundry** (the unified platform
 formerly known as Azure AI Studio). It combines a presentation deck with five

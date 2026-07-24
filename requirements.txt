@@ -1,0 +1,23 @@
+# Shared Python dependencies for the Azure AI Foundry Workshop
+# Python 3.11+ recommended. Install with:  pip install -r requirements.txt
+
+# --- Azure AI Foundry SDKs ---
+# The unified project client for Azure AI Foundry (projects, connections, agents, datasets)
+azure-ai-projects>=1.0.0b7
+# Inference SDK for calling deployed chat/completions & embedding models
+azure-ai-inference>=1.0.0b7
+# Evaluation SDK (prompt flow evaluators: groundedness, relevance, coherence, etc.)
+azure-ai-evaluation>=1.0.0
+
+# --- Azure core / auth ---
+azure-identity>=1.17.0
+azure-core>=1.30.0
+
+# --- RAG / retrieval (Lab 04) ---
+azure-search-documents>=11.5.1
+azure-storage-blob>=12.19.0
+
+# --- Utilities ---
+python-dotenv>=1.0.1
+requests>=2.31.0
+rich>=13.7.0
